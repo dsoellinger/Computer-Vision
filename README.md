@@ -38,3 +38,4 @@ Implementation of our own neural network layer (in our case, an activation funct
 - Skimage Framework
 - OpenCV Framework
 - Numpy / Scipy / Pickle Framework
+
