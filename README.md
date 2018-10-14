@@ -10,7 +10,7 @@ The Computer Vision course was conducted in WS 2017.
    [https://github.com/BMaser](https://github.com/BMaser)
    
 - **Dominik Söllinger** <br/>
-   [https://github.com/BMaser](https://github.com/dsoellinger)
+   [https://github.com/dsoellinger](https://github.com/dsoellinger)
 
 ## Assignments
 
